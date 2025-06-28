@@ -1,6 +1,18 @@
 
 # Sentiment Analysis using TF-IDF and Logistic Regression
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+ *NAME*: RAGHAV PANDEY
+ 
+ *INTERN ID*: CT04DF122
+ 
+ *DOMAIN*: MACHINE LEARNING
+ 
+ *DURATION*: 4 WEEKS
+ 
+ *MENTOR*: NEELA SANTOSH
+ 
 This repository contains a complete implementation of a **Sentiment Analysis** pipeline using **TF-IDF vectorization** and **Logistic Regression**. The project is built entirely in Python using Jupyter Notebook and relies on several NLP preprocessing steps to clean and convert raw textual data into meaningful numerical features for classification.
 
 ##  Project Overview
