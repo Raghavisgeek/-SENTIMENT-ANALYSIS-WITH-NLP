@@ -79,6 +79,6 @@ This project is a foundational implementation of text classification using tradi
 
 ## 👤 Author
 
-Raghav Pandey (you may update this section)
+Raghav Pandey 
 
 ---
